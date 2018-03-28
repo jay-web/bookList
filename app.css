@@ -1,0 +1,18 @@
+.success,
+.error {
+    margin: 15px 0 15px 0;
+    padding: 5px;
+    color: white;
+}
+
+.success {
+    background-color: green;
+}
+
+.error {
+    background-color: crimson;
+}
+
+a:link {
+    text-decoration: none;
+}
